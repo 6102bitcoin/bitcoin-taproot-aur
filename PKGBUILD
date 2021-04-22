@@ -1,10 +1,10 @@
 # Maintainer: iohzrd <iohzrd at protonmail dot com>
 
-pkgname=bitcoin-taproot
+pkgname=bitcoin-taproot-lot-true-uasf
 pkgver='0.21.0.taproot0.1'
 _pkgver='0.21.0-taproot0.1'
 pkgrel=1
-pkgdesc="Bitcoin Core 0.21.0-based Taproot Client 0.1"
+pkgdesc="Bitcoin Core 0.21.0-based Taproot Client 0.1 (LOT = true UASF)"
 arch=('x86_64')
 url="https://bitcointaproot.cc/"
 license=('MIT')
